@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">youtube</string>
+    <string name="regisztracio"><u>Még nem regisztráltál?</u></string>
+    <string name="belepes"><u>Már regisztráltál?</u></string>
+</resources>
